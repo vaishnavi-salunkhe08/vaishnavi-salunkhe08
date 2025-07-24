@@ -1,16 +1,18 @@
 ## Hi there 👋
+## Welcome to Vaishnavi's GitHub Profile
 
-<!--
-**vaishnavi-salunkhe08/vaishnavi-salunkhe08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About me ℹ️
+- 🔭 I am currently pursuing Bachelor's degree in AL/ML
 
-Here are some ideas to get you started:
+## Skill and Technology
+- Programming languages: Python , Java
+- Tools & Technologies: HTML, CSS, Machine Learning, Artificial Neural Networks, JavaScript, Node.js, MySQL, Power BI, Canva, Git, AWS, AIML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Connect with Me 🤝
+  - Feel free to reach out to me through the following channels:
+    - [Email](vaishnavisalunkhe865@gmail.com)
+    - [LinkedIn]([url](https://www.linkedin.com/in/vaishnavi-salunkhe-b67b8b374/))
+
+
+
+
